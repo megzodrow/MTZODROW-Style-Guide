@@ -47,142 +47,15 @@ div {
   margin-left: 80px;
   padding-top: 50px;
 }
-/* section {
-  padding: 30px;
-} */
-/* .colorPalette {
 
-}
-.darkBlue {
-  background-color: #333366;
-}
-.darkGrey {
-  background-color: #545454;
-}
-.lightGrey {
-  background-color: #E3E3E3;
-}
-.white {
-  background-color: #FFFFFF;
-}
-.lightBlue {
-  background-color: #12A0F6;
-}
-.red {
-  background-color: #F84848;
-}
-.orange {
-  background-color: #FC7705;
-}
-.lightBlue {
-  background-color: #13A0F6;
-}
-.lightGreen {
-  background-color: #8ABE48;
-}
-.colorContainer {
-  display: inline-block;
-  margin: 15px;
-}
-.swatch {
-  height: 100px;
-  width: 150px;
-  height: 200px;
-  width: 170px;
-  border: 1px solid black;
-  /* border-bottom: .5px solid black; */
-}
-.hexCode {
-  padding: 15px;
-  text-align: center;
-  border: 1px solid black;
-  border-top: none;
-  border-bottom-left-radius: 7px;
-  border-bottom-right-radius: 7px;
-}
-
-.typography {
-
-}
-.typography h1 {
-  font-weight: 700;
-  font-size: 48px;
-  color: #454141;
-   margin-left: 80px;
-}
-/*
-.typography h2 {
-  font-weight: 700;
-  font-size: 42px;
-}
-.typography h3 {
-  font-weight: 700;
-  font-size: 34px;
-}
-.typegraphy h4 {
-  font-weight: 100;
-  font-size: 26px;
-  line-height: 50px;
-} */
 .type_container {
   display: inline-block;
   margin: 20px;
 }
-.large {
-  font-size: 66px;
-  margin-bottom: 15px;
-  margin-bottom: 15px;
-  margin-top: 0;
-}
-.light {
-  font-weight: 100;
-}
-.regular {
-  font-weight: 500;
-}
-.bold {
-  font-weight: 700;
-}
-.button {
-  display: inline-block;
-  padding: 15px;
-  margin: 15px;
-  width: 150px;
-  font-size: 14px;
-  text-align: center;
-  color: white;
-}
-/*
-.primary {
-  background-color: #2B459A;
-}
-.success {
-  background-color: #8ABE48;
-}
-.danger {
-  background-color: #F84848;
-}
-.warning {
-  background-color: #FC7705;
-}
-.info {
-  background-color: #0099FA;
-}
-.primaryActive {
-  background-color: #3A66B7;
-}
-.successActive {
-  background-color: #668C35;
-}
-.dangerActive {
-  background-color: #AD4848;
-}
-.warningActive {
-  background-color: #BA7A43;
-}
-.infoActive {
-  background-color: #4386BA;
-} */
+
+
+
+
 .sectionHead {
   border-bottom: 4px solid #e2e2e2;
   font-size: 32px;
